@@ -2,11 +2,6 @@
   Hi 👋, I'm Guilherme Tadeu Tang Penna
 </h1>
 
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=520&lines=Backend+Developer+%E2%98%95;Java+%26+Spring+Boot;PostgreSQL+%7C+REST+APIs;From+Brazil+%F0%9F%87%A7%F0%9F%87%B7"
-    alt="Typing SVG"
-  />
 </p>
 
 <p align="center">
