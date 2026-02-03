@@ -4,7 +4,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Backend+Developer+%E2%98%95;Java+%26+Spring+Boot;APIs+REST+%7C+Clean+Code;From+Brazil+%F0%9F%87%A7%F0%9F%87%B7"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=520&lines=Backend+Developer+%E2%98%95;Java+%26+Spring+Boot;PostgreSQL+%7C+REST+APIs;From+Brazil+%F0%9F%87%A7%F0%9F%87%B7"
     alt="Typing SVG"
   />
 </p>
@@ -22,8 +22,8 @@
 <h3 align="center">👨‍💻 About Me</h3>
 
 <p align="center">
-Backend Developer focused on <b>Java</b> and <b>Spring Boot</b>.<br/>
-I enjoy building REST APIs, working with databases and writing clean, scalable code.
+Backend Developer focused on <b>Java</b>, <b>Spring Boot</b> and <b>PostgreSQL</b>.<br/>
+I enjoy building REST APIs, working with databases and writing clean, scalable backend code.
 </p>
 
 ---
@@ -33,7 +33,6 @@ I enjoy building REST APIs, working with databases and writing clean, scalable c
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
 </p>
@@ -50,3 +49,4 @@ I enjoy building REST APIs, working with databases and writing clean, scalable c
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
